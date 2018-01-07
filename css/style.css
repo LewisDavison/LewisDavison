@@ -1007,7 +1007,8 @@
 			}
 
 		.wrapper.style2 {
-			background: #ffffff;
+			background: grey;
+            color:lightyellow;
 		}
 
 		.wrapper.style3 {
